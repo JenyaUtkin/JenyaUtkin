@@ -4,7 +4,7 @@
 
 **Мой технологический стэк **
 * HTML/CSS
-* JavaScript
+* JavaScript 
 * React 
 * Redux
 * Node.js
