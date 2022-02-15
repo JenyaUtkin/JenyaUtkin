@@ -1,4 +1,17 @@
-### Hi there 👋
+# Привет! 👋
+
+### Меня зовут Евгений и я фронтенд-разрабочик!
+
+**Мой технологический стэк **
+* HTML/CSS
+* JavaScript
+* React 
+* Redux
+* Node.js
+* Express
+* PostgreSQL
+
+
 
 <!--
 **JenyaUtkin/JenyaUtkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
