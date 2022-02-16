@@ -14,7 +14,6 @@
 # Контакты
 
 telegam: <a href="https://t.me/ok_booomer"> Tg_Evgeniy </a> 
-instagram: 
 
 
 <!--
