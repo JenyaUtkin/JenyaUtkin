@@ -1,7 +1,8 @@
 # Привет! 👋
 
 ### Меня зовут Евгений и я фронтенд-разрабочик! 
-<a href="https://www.codewars.com/users/JenyaUtkin/badges/large"></a>
+<img src="https://www.codewars.com/users/JenyaUtkin/badges/large" alt="codewars"/>
+
 ** Мой технологический стэк **
 * HTML/CSS
 * JavaScript 
