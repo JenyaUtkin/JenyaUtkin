@@ -3,15 +3,6 @@
 ### Меня зовут Евгений и я фронтенд-разрабочик! 
 <img src="https://www.codewars.com/users/JenyaUtkin/badges/large" alt="codewars"/>
 
-** Мой технологический стэк **
-* HTML/CSS
-* JavaScript 
-* React 
-* Redux
-* Node.js
-* Express
-* PostgreSQL
-
 # Контакты
 
 telegam: <a href="https://t.me/Jenya_kek"> Jenya_kek </a> 
