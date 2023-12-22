@@ -7,7 +7,6 @@
 
 🏆 Мои достижения на Codewars:
 ![Codewars Badges](https://www.codewars.com/users/JenyaUtkin/badges/large)
-<img src="https://www.codewars.com/users/JenyaUtkin/badges/large" alt="codewars"/>
 
 # Контакты
 
